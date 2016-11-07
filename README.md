@@ -5,7 +5,7 @@
 ## Outlines
 
 1. [Git Fundamentals](Git-Fundamentals.md)
-    1. [What is Version Control System?](Git-Fundamentals.md#vcs)
+    1. [What is Version Control System?](Git-Fundamentals.md#what-is-version-control-system)
     2. [Commits](Git-Fundamentals.md#commits)
     3. [Working Copy](Git-Fundamentals.md#working-copy), [Staging Area](Git-Fundamentals.md#staging-area), & [Local Repository](Git-Fundamentals.md#local-repository)
     4. [Branching](Git-Fundamentals.md#branching)
