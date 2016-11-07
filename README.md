@@ -32,8 +32,8 @@
     6. [Push](Collaboration-in-Git.md#push)
     7. [Git Ignore](Collaboration-in-Git.md#git-ignore)
     8. [Git Exclude](Collaboration-in-Git.md#git-exclude)
-4. Git Workflows
-    1. Centralized Workflow
-    2. Feature Branch Workflow
-    3. GitFlow Workflow
-    4. Forking Workflow
+4. [Git Workflows](Git-Workflows.md)
+    1. [Centralized Workflow](Git-Workflows.md#centralized-workflow)
+    2. [Feature Branch Workflow](Git-Workflows.md#feature-branch-workflow)
+    3. [GitFlow Workflow](Git-Workflows.md#gitflow-workflow)
+    4. [Forking Workflow](Git-Workflows.md#forking-workflow)
