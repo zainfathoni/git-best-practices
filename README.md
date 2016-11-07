@@ -4,12 +4,13 @@
 
 ## Outlines
 
-1. Git Fundamentals
-    1. What is Version Control System?
-    2. Commits
-    3. Working Copy, Staging Area, & Local Repository
-    4. Branching
-    5. References & Checkout
+1. [Git Fundamentals](Git-Fundamentals.md)
+    1. [What is Version Control System?](Git-Fundamentals.md#vcs)
+    2. [Commits](Git-Fundamentals.md#commits)
+    3. [Working Copy](Git-Fundamentals.md#working-copy), [Staging Area](Git-Fundamentals.md#staging-area), & [Local Repository](Git-Fundamentals.md#local-repository)
+    4. [Branching](Git-Fundamentals.md#branching)
+    5. [References](Git-Fundamentals.md#references)
+    6. [Checkout](Git-Fundamentals.md#checkout)
 2. Git Basic Operations
     1. Revert
     2. Reset
