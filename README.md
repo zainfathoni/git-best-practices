@@ -23,15 +23,15 @@
         3. [Merge Conflicts](Git-Basic-Operations.md#merge-conflicts)
     4. [Rebase](Git-Basic-Operations.md#rebase)
     5. [Stash](Git-Basic-Operations.md#stash)
-3. Collaboration in Git
-    1. Remote Repository vs Local Repository
-    2. Remote Branch vs Local Branch
-    3. Clone
-    4. Fetch
-    5. Pull
-    6. Push
-    7. Git Ignore
-    8. Git Exclude
+3. [Collaboration in Git](Collaboration-in-Git.md)
+    1. [Remote Repository vs Local Repository](Collaboration-in-Git.md#remote-repository-vs-local-repository)
+    2. [Remote Branch vs Local Branch](Collaboration-in-Git.md#remote-branch-vs-local-branch)
+    3. [Clone](Collaboration-in-Git.md#clone)
+    4. [Fetch](Collaboration-in-Git.md#fetch)
+    5. [Pull](Collaboration-in-Git.md#pull)
+    6. [Push](Collaboration-in-Git.md#push)
+    7. [Git Ignore](Collaboration-in-Git.md#git-ignore)
+    8. [Git Exclude](Collaboration-in-Git.md#git-exclude)
 4. Git Workflows
     1. Centralized Workflow
     2. Feature Branch Workflow
