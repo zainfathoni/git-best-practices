@@ -7,19 +7,22 @@
 1. [Git Fundamentals](Git-Fundamentals.md)
     1. [What is Version Control System?](Git-Fundamentals.md#what-is-version-control-system)
     2. [Commits](Git-Fundamentals.md#commits)
-    3. [Working Copy](Git-Fundamentals.md#working-copy), [Staging Area](Git-Fundamentals.md#staging-area), & [Local Repository](Git-Fundamentals.md#local-repository)
+    3. [Working Copy, Staging Area, Local Repository](Git-Fundamentals.md#local-repository-git-workflow--local-repository)
+        1. [Working Copy](Git-Fundamentals.md#working-copy)
+        2. [Staging Area](Git-Fundamentals.md#staging-area)
+        3. [Local Repository](Git-Fundamentals.md#local-repository)
     4. [Branching](Git-Fundamentals.md#branching)
     5. [References](Git-Fundamentals.md#references)
     6. [Checkout](Git-Fundamentals.md#checkout)
-2. Git Basic Operations
-    1. Revert
-    2. Reset
-    3. Merge
-        1. Merge Commit
-        2. Fast-Forward Merge
-        3. Merge Conflicts
-    4. Rebase
-    5. Stash
+2. [Git Basic Operations](Git-Basic-Operations.md)
+    1. [Revert](Git-Basic-Operations.md#revert)
+    2. [Reset](Git-Basic-Operations.md#reset)
+    3. [Merge](Git-Basic-Operations.md#merge)
+        1. [Merge Commit](Git-Basic-Operations.md#merge-commit)
+        2. [Fast-Forward Merge](Git-Basic-Operations.md#fast-forward-merge)
+        3. [Merge Conflicts](Git-Basic-Operations.md#merge-conflicts)
+    4. [Rebase](Git-Basic-Operations.md#rebase)
+    5. [Stash](Git-Basic-Operations.md#stash)
 3. Collaboration in Git
     1. Remote Repository vs Local Repository
     2. Remote Branch vs Local Branch
