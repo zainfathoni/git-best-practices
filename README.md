@@ -1,4 +1,5 @@
 # Git Best Practices
 
-[Indonesian Version](id/index.md)
-[English Version](en/index.md)
+Read [Indonesian Version](id/index.md)
+
+Read [English Version](en/index.md)
