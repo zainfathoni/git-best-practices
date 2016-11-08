@@ -22,7 +22,13 @@ Berikut beberapa keuntungan dari pemanfaatan VCS:
 4. Kemampuan mengembalikan file yang **hilang/terhapus**. 
 
 ## Repository
-## Commits
+
+Satuan entitas terbesar di dalam Git adalah ***Repository***.
+*Repository* dapat dianggap seperti sebuah *database* tempat VCS menyimpan semua versi dan akumulasi *metadata* dalam suatu proyek. Pada Git, *repository* ini diwakili oleh sebuah folder tersembunyi bernama **".git"** di akar folder proyek tersebut.
+Dengan demikian, kita dapat dengan mudah mengetahui apakah suatu folder/proyek dikelola dengan Git atau tidak hanya dengan memastikan keberadaan folder **.git** tersebut.
+Kita tidak perlu (bahkan jangan sampai) mengotak-atik isi "folder ajaib" ini.
+
+## Commit
 ## Working Copy, Staging Area, & Local Repository
 ### Working Copy
 ### Staging Area
