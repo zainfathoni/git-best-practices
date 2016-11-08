@@ -24,11 +24,22 @@ Berikut beberapa keuntungan dari pemanfaatan VCS:
 ## Repository
 
 Satuan entitas terbesar di dalam Git adalah ***Repository***.
-*Repository* dapat dianggap seperti sebuah *database* tempat VCS menyimpan semua versi dan akumulasi *metadata* dalam suatu proyek. Pada Git, *repository* ini diwakili oleh sebuah folder tersembunyi bernama **".git"** di akar folder proyek tersebut.
-Dengan demikian, kita dapat dengan mudah mengetahui apakah suatu folder/proyek dikelola dengan Git atau tidak hanya dengan memastikan keberadaan folder **.git** tersebut.
+*Repository* dapat dianggap seperti sebuah *database* tempat VCS menyimpan semua versi dan akumulasi *metadata* dalam suatu proyek. Pada Git, *repository* ini diwakili oleh sebuah folder tersembunyi bernama **`.git`** di akar folder proyek tersebut.
+Dengan demikian, kita dapat dengan mudah mengetahui apakah suatu folder/proyek dikelola dengan Git atau tidak hanya dengan memastikan keberadaan folder **`.git`** tersebut.
 Kita tidak perlu (bahkan jangan sampai) mengotak-atik isi "folder ajaib" ini.
 
 ## Commit
+
+***Commit*** adalah suatu "pembungkus" sekumpulan perubahan yang terjadi pada beberapa file. Pembuat *commit* ini harus memberikan komentar mengenai perubahan yang dilakukan tersebut dalam bentuk ***Commit Message***. Hal ini memudahkan orang lain (dan si pembuat *commit* itu sendiri) untuk memahami apa maksud dia ketika melakukan perubahan tersebut.
+
+### Struktur Dasar *Commit*
+
+1. Data
+2. Commit Message
+3. Commit Hash
+
+### *Commit Pointer*
+
 ## Working Copy, Staging Area, & Local Repository
 ### Working Copy
 ### Staging Area
