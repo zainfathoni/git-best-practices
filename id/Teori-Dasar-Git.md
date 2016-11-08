@@ -14,6 +14,13 @@ Di bagian bawah, kita dapat melihat detil perubahan yang terjadi di setiap versi
 ![Apa itu VCS](https://www.git-tower.com/learn/content/01-git/01-ebook/en/02-desktop-gui/02-basics/01-what-is-version-control/what-is-vcs.png)
 *Gambar: [Git Tower | What is Version Control?](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/what-is-version-control#start)*
 
+Berikut beberapa keuntungan dari pemanfaatan VCS:
+
+1. Kemampuan mengembalikan kondisi **file** pada versi tertentu.
+2. Kemampuan mengembalikan kondisi **proyek secara utuh** pada versi tertentu.
+3. Kemampuan membandingkan **perubahan** di setiap versinya untuk melihat adanya perubahan yang mengakibatkan suatu masalah terhadap proyek.
+4. Kemampuan mengembalikan file yang **hilang/terhapus**. 
+
 ## Repository
 ## Commits
 ## Working Copy, Staging Area, & Local Repository
