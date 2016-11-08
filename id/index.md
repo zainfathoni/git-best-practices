@@ -1,18 +1,22 @@
-[Git](https://git-scm.com/) is an extremely powerful Version Control System (VCS) which enables people to collaborate on text-based documents, such as this article. There are already so many excellent Git tutorials out there. The purpose of this article is to summarize the best practices so you could get up and running soon for contributing to Open Source projects in GitHub.
+# Pemanfaatan Git secara Optimal
 
-## Outlines
+[Git](https://git-scm.com/) adalah *Version Control System (VCS)* yang sangat populer dan bermanfaat dalam memudahkan orang untuk berkolaborasi mengerjakan dokumen-dokumen berbasis teks. Dokumen-dokumen tersebut bisa berupa kode program atau file teks sederhana seperti artikel yang Anda baca ini.
 
-1. [Git Fundamentals](Git-Fundamentals.md)
-    1. [What is Version Control System?](Git-Fundamentals.md#what-is-version-control-system)
-    2. [Repository](Git-Fundamentals.md#repository)
-    3. [Commits](Git-Fundamentals.md#commits)
-    4. [Working Copy, Staging Area, Local Repository](Git-Fundamentals.md#local-repository-git-workflow--local-repository)
-        1. [Working Copy](Git-Fundamentals.md#working-copy)
-        2. [Staging Area](Git-Fundamentals.md#staging-area)
-        3. [Local Repository](Git-Fundamentals.md#local-repository)
-    5. [Branching](Git-Fundamentals.md#branching)
-    6. [References](Git-Fundamentals.md#references)
-    7. [Checkout](Git-Fundamentals.md#checkout)
+Di internet telah banyak beredar artikel tentang Git yang cukup mudah dipahami. Namun hampir semuanya dalam bahasa Inggris. Tujuan pembuatan artikel ini adalah untuk merangkum berbagai praktek pemanfaatan Git secara optimal, sehingga pembaca dapat sesegera mungkin produktif dalam berkontribusi ke dalam proyek-proyek *Open Source* di GitHub.
+
+## Daftar Isi
+
+1. [Teori Dasar Git](Teori-Dasar-Git.md)
+    1. [Apa itu VCS?](Teori-Dasar-Git.md#apa-itu-vcs)
+    2. [Repository](Teori-Dasar-Git.md#repository)
+    3. [Commits](Teori-Dasar-Git.md#commits)
+    4. [Working Copy, Staging Area, Local Repository](Teori-Dasar-Git.md#local-repository-git-workflow--local-repository)
+        1. [Working Copy](Teori-Dasar-Git.md#working-copy)
+        2. [Staging Area](Teori-Dasar-Git.md#staging-area)
+        3. [Local Repository](Teori-Dasar-Git.md#local-repository)
+    5. [Branching](Teori-Dasar-Git.md#branching)
+    6. [References](Teori-Dasar-Git.md#references)
+    7. [Checkout](Teori-Dasar-Git.md#checkout)
 2. [Git Basic Operations](Git-Basic-Operations.md)
     1. [Revert](Git-Basic-Operations.md#revert)
     2. [Reset](Git-Basic-Operations.md#reset)
